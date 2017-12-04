@@ -10,3 +10,14 @@ This is a repo (folder) for the Shared Data Unit hackday on December 4 2017:
 6. At the end of the day you can submit a *pull request* to have your folder pulled back into the main repo here. 
 
 If you need any help ask Paul Bradshaw!
+
+## Possible projects
+
+It's up to you what you make by the end of the hackday, but here are some ideas:
+
+* A data visualisation (chart, map, network diagram, etc.)
+* An infographic (this might combine datavis with key facts, images etc)
+* A story pitch/top line (you probably won't have time to write the whole story!)
+* A backgrounder/briefing
+* A tool (e.g. calculator, search, interactive visualisation, quiz, game)
+* A bot
