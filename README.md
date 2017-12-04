@@ -21,3 +21,7 @@ It's up to you what you make by the end of the hackday, but here are some ideas:
 * A backgrounder/briefing
 * A tool (e.g. calculator, search, interactive visualisation, quiz, game)
 * A bot
+
+## Possible datasets
+
+Feel free to use any of the datasets on the [BBC Data Unit GitHub account](https://github.com/bbc-data-unit). You can click on any tag to see all repos around that topic. For example, repos with data related to housing would be at [https://github.com/search?q=topic%3Ahousing+org%3ABBC-Data-Unit&type=Repositories](https://github.com/search?q=topic%3Ahousing+org%3ABBC-Data-Unit&type=Repositories)
